@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#below command used to install nginx
 
 sudo apt-get update -y
 sudo apt install -y
