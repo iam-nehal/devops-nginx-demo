@@ -13,3 +13,5 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 Web page is static
+
+Happy Learning!!
